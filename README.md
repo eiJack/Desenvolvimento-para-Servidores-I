@@ -6,4 +6,4 @@ Turma: Sistemas para Internet - 4º semestre <br>
 <br>
 Descrição: Nesse repositório se encontra as atividades feitas na matéria de Desenvolvimento para Servidores I. Onde desenvolveremos atividades usando o NetBeans para mexer com Java. <br>
 <br>
-Atividade 01 - ExercicioMetodos
+Atividade 01 - Atividade de Orientação a Objetos (Métodos)
